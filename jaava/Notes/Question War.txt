@@ -1,0 +1,51 @@
+1. How to Print "Hello Ramanuj" in Java without using SemiColon (";") ?
+
+2. Code 2:
+
+class A {
+    static {
+        System.out.println("Static Block A");
+    }
+
+    {
+        System.out.println("Instance Block A");
+    }
+
+    A() {
+        System.out.println("Constructor A");
+    }
+}
+
+class B extends A {
+    static {
+        System.out.println("Static Block B");
+    }
+
+    {
+        System.out.println("Instance Block B");
+    }
+
+    B() {
+        System.out.println("Constructor B");
+    }
+}
+
+public class Test {
+    public static void main(String[] args) {
+        B b = new B();
+    }
+}
+
+3. How to swap Two string variables without using temporary variable ?
+
+4. What feature in Java allows you to add a new method to an interface without breaking existing implementations of that interface?
+
+5. public class Main {
+   public static void main(String[] args) {
+     System.out.println("Main method ");
+   }
+   public static void main(String args) {
+     System.out.println ("Hello");
+   }
+}
+predict output

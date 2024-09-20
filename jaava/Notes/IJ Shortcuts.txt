@@ -1,0 +1,44 @@
+Explore Idea IDE and shortcuts features, make the development process easier with IDEA
+
+//Rakesh
+--> Intro and Features
+
+
+//Amaan
+- ctlr+f11 -> Bookmark code -> Shift+f11 -> Show Bookmark
+- ctrl+f -> find a word && ctrl+r -> replace words
+- Alt+7 -> structure of code of a class -> explore methods and more
+- ctrl + tab -> hold ctrl -> select form switcher (Switcher)
+- ctrl+e -> files history (files opened last)
+- ctrl+Alt+v -> to create references automatically
+
+
+//Hariprasad
+-F2:- navigating between errors or warnings or suggestion.
+-alt+Enter show quick suggestions and quick fix
+-Ctrl+Alt+B, we can navigate to an implementation instead. for classes inheritance
+-ctrl+n and ctrl+shift+n navigate class and navigate files
+-Double shift- navigate anywhere
+
+
+//Anup
+
+- Ctrl + Alt + O :-  Optimize your imports, remove unused imports. If you are importing a lot of classes from the same package, IDEA could import the whole package or vice versa.
+
+- Ctrl+B :- or Ctrl+B (Windows/Linux) we can go to the declaration of a symbol
+
+- Alt+F7
+Instead of finding the declaration, often we want to find where something is used.  Alt+F7 will show us all the places something is used.  If, for example, we press Alt and F7 on this interface name, the search window will show all the places the interface is used
+ 
+- Shift + F6:- Rename variables, methods, or classes across the entire project using 
+
+- Alt+ 1to9
+ 
+
+//Vignay
+// Customize Visuals
+- ctrl+/ -> single line comment && ctrl+Shift+/ -> multiline comment
+- Alt+up||down -> iterate through methods in code 
+- Ctrl+Shift+Up/Down -> Move methods variables -> Rearrange blocks of codes
+- ctlrl+Alt+L -> Reformat -> To maintain Indentation -> Proper Structure : Select the text (or Ctrl A)
+- ctrl+d -> duplicate the previous line

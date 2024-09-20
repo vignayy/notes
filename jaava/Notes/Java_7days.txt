@@ -1,0 +1,122 @@
+###### Day 1 - 30 Aug
+
+(1.Intro - 30.Arrays)
+
+- Intro
+- JDK setup
+- Hello World
+- How Java Works: JDK:JRE:JVM
+- Variables
+- DataTypes, Literal
+- Type Conversion
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- If-Else, IfElseIf, Nested IfElse
+- Ternary Operator
+- Switch Statement
+- For, While, DoWhile Loops
+- Class and Object
+- Methods
+- Method OverLoading
+- Java Memory Allocation: Stack & Heap
+- Arrays
+
+---
+###### Day 2 - 31 Aug
+
+(31.MultiDimensional Arrays  - 47.Naming Convention)
+
+- MultiDimensional Arrays
+- Jagged Array & 3D Array
+- Array Of Objects
+- Enhanced For Loop
+- Strings
+- Mutable vs Immutable Strings
+- StringBuffer & StringBuilder
+- Static KeyWord
+- Encapsulation
+- Getters & Setters
+- This KeyWord
+- Constructor
+- Default & Parameterized Constructor
+- Naming Convention
+
+---
+###### Day 3 - 2 Sep
+
+(48.Anonymous Object - 62.Wrapper Class)\
+ _**Completed Core Java**_
+
+- Anonymous Object
+- Inheritance
+- Types of Inheritance
+- This and Super method
+- Method OverRiding
+- Packages
+- Access Modifiers
+- Polymorphism
+- Dynamic Method Dispatch
+- Final Keyword
+- ObjectClass equals() toString() hashCode()
+- UpCasting & DownCasting
+- Wrapper Class
+
++ Quiz Project **Inc.**
+
+---
+###### Day 4 - 3 Sep
+
+(68.Abstract Keyword - 91.Try With Resources)
+
+- Abstract Keyword
+- Inner Class
+- Anonymous Inner Class
+- Abstract Anony Inner CLass
+- Interface
+- Enum
+- Annotations
+- Functional Interfaces
+- Lambda Expression
+- Exceptions
+- Exception Handling: Try-Catch
+- Exception Hierarchy
+- Throw Keyword
+- Custom Exception
+- Throws Keyword -> Ducking Exception
+- UserInput: BufferReader & Scanner
+- Try With Resources - Finally Keyword
+
+---
+###### Day 5 - 4 Sep
+
+(92.Threads - 102.Comparator-Comparable)\
+
+- Threads Intro
+- Thread Priority, Sleep
+- Runnable Implementation
+- Race Condition (join)
+- Thread LifeCycle
+- Collection API
+- ArrayList intro
+- Set Intro
+- Map Intro
+- Comparator
+- Comparable - compareTo()
+
+---
+###### Day 6 - 5 Sep
+
+(103.Stream API - 110.Constructor Reference)\
+_Completed Adv. Java_
+- Stream API
+- forEach -> Consumer
+- map() filter() reduce() sorted()
+- Parallel Stream
+- Optional Class - orElse
+- Method Reference
+- Constructor Reference
+
+---
+###### Day 7 - 6 Sep
+0

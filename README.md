@@ -1,2 +1,5 @@
-# notes
-Notes
+## Notes
+
+- Java
+- SQL
+- Git

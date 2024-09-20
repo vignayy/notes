@@ -1,0 +1,47 @@
+Dev Setup
+
+JDK 21
+IntelliJ IDEA
+Git
+MySQL/SQLServer
+Node JS
+
+--------------------------------------------------------------------------------
+
+Java
+
+Technologies for FullsStack dev ---
+Akshay sainy(Namasthe javascript)
+Java brains, Official Java Channel - Java
+IBM YT Channel - Gen AI
+Traverse Media - Frontend
+TechWorld with Nana - Devops
+Project Mangement - Google Coursera
+Stephane Maarek AWS - Udemy
+
+
+Backend - 
+java/Dotnet/PHP/Python/JavaScript
+Spring Framework/Django/Express JS
+MySQL/Postgres/MongoDB
+kafka
+
+Frontend-
+HTML,CSS,JavaScript
+Bootstrap/Tailwind
+Angular, React
+
+DevOps-
+Git
+Maven/NPM
+Jenkins
+SonarQube
+Cloud - AWS/Azure/GCP
+Docker, Kubernetes
+Terraform
+Ansible
+
+Project Management -
+Jira
+
+------------------------------------------------------------------------------------------
