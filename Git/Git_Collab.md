@@ -39,9 +39,10 @@ independently. Here's how you can do it:
      ```
      git checkout main
      ```
-   - Merge the changes from the upstream main branch into your main branch:
+   - Merge the changes from the upstream main branch into your main branch, Push and update remote main branch:
      ```
      git merge upstream/main
+     git push origin main
      ```
 
 5. **Create a New Branch**:
@@ -51,8 +52,12 @@ independently. Here's how you can do it:
      ```
 
 6. **Make Changes, Commit, and Push**:
-   - Work on your frontend code, stage and commit changes, and push them to your forked repository as explained in the
-     previous response.
+   - Work on your frontend code, stage and commit changes, and push them to your forked repository
+      ```
+      git add .
+      git commit -m "Add frontend changes"
+      git push origin frontend
+      ```
 
 7. **Create Pull Request**:
    - After pushing your changes to your forked repository, go to your forked repository on
@@ -63,6 +68,23 @@ independently. Here's how you can do it:
 8. **Review and Merge**:
    - Your friend John, who owns the original repository, can review your pull request, add comments, and merge the
      changes if everything looks good.
+   - Once approved, the pull request can be merged into the main branch of the original repository 
+
+9. **Cleanup "frontend-dev" Branch**:
+    - After the pull request is merged, delete the "frontend-dev" branch locally and on GitHub:
+      ```
+      git checkout main
+      git branch -d frontend-dev  # delete locally
+      git push origin --delete frontend-dev  # delete on GitHub
+
+10. **Stay Synced with Upstream**:
+    - Periodically fetch and merge changes from the upstream repository:
+      ```
+      git fetch upstream
+      git checkout main
+      git merge upstream/main
+      git push origin main
+      ```
 
 By forking the repository, you create a separate space to work on the project while still being able to collaborate and
 contribute changes back to the original repository through pull requests. This workflow is commonly used in open-source
