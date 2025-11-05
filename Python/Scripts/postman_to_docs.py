@@ -48,6 +48,7 @@ def extract_items(items, docs, folder_path=""):
             docs.append(f"Request: {name}")
             docs.append(f"Method: {method}")
             docs.append(f"Endpoint: {url}")
+            docs.append("Target URL: ")
 
             if request_body:
                  docs.append("\nRequest Body:\n" + request_body)
