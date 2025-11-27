@@ -56,7 +56,7 @@ independently. Here's how you can do it:
       ```
       git add .
       git commit -m "Add frontend changes"
-      git push origin frontend
+      git push origin frontend-dev
       ```
 
 7. **Create Pull Request**:
